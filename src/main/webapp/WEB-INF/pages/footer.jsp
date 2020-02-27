@@ -13,7 +13,7 @@
     <a target="_blank" href="https://promotion.aliyun.com/ntms/act/ambassador/sharetouser.html?
     userCode=vnibgn1s&utm_source=vnibgn1s">Powered by 阿里云服务</a>
     <br/>
-    <a target="_blank" href="http://www.miitbeian.gov.cn">京ICP备17068013号</a>
+    <a target="_blank" href="http://www.beian.miit.gov.cn">京ICP备17068013号</a>
 </div>
 </body>
 </html>
